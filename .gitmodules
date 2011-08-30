@@ -10,3 +10,6 @@
 [submodule "modules/libpd-processing"]
 	path = modules/libpd-processing
 	url = git://gitorious.org/pdlib/puredatap5.git
+[submodule "modules/qpd"]
+	path = modules/qpd
+	url = git@github.com:errordeveloper/qpd.git
