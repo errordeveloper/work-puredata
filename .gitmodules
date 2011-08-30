@@ -1,0 +1,12 @@
+[submodule "modules/libpd-main"]
+	path = modules/libpd-main
+	url = git://gitorious.org/pdlib/libpd.git
+[submodule "modules/libpd-android"]
+	path = modules/libpd-android
+	url = git://gitorious.org/pdlib/pd-for-android.git
+[submodule "modules/libpd-ios"]
+	path = modules/libpd-ios
+	url = git://gitorious.org/pdlib/pd-for-ios.git
+[submodule "modules/libpd-processing"]
+	path = modules/libpd-processing
+	url = git://gitorious.org/pdlib/puredatap5.git
