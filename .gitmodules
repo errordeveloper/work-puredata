@@ -13,3 +13,6 @@
 [submodule "modules/qpd"]
 	path = modules/qpd
 	url = git@github.com:errordeveloper/qpd.git
+[submodule "modules/libpd-test-patches"]
+	path = modules/libpd-test-patches
+	url = git://gitorious.org/pdlib/pd-starter-kit.git
